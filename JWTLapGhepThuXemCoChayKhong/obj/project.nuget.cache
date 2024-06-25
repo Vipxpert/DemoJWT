@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3jewEux7rqLfHPMcIV/sqCNoLxsBvW13Jwj83ICsqSB37r6R0YiAkwXnkgjZnaleR5fT/APLjn/z81QemaMMQ==",
+  "success": true,
+  "projectFilePath": "E:\\FPT\\PRN231\\yeh\\DemoJWT\\JWTLapGhepThuXemCoChayKhong\\DemoJWT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.31\\microsoft.aspnetcore.authentication.jwtbearer.6.0.31.nupkg.sha512",
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.2\\microsoft.identitymodel.abstractions.7.6.2.nupkg.sha512",
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.2\\microsoft.identitymodel.jsonwebtokens.7.6.2.nupkg.sha512",
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.2\\microsoft.identitymodel.logging.7.6.2.nupkg.sha512",
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.2\\microsoft.identitymodel.tokens.7.6.2.nupkg.sha512",
+    "C:\\Users\\Vipxpert\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.2\\system.identitymodel.tokens.jwt.7.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
